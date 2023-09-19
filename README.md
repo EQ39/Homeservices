@@ -59,6 +59,9 @@ A new Flutter project.
 
 HomeService is a digital marketplace that is built with a comprehensive category and an efficient search, find and order process that mirrors a typical e-commerce transaction. It's an android based application that creates an on demand, e-commerce-like experience that makes working with home cleaning and home maintenance freelancers easy for residents around Nyeri town by lowering the time-to-hire for clients compared to traditional offline hiring platforms. 
 
+### ** Demo**
+https://user-images.githubusercontent.com/84273712/269034227-d2425c18-30b6-4196-9a7f-1e89492397c8.mp4
+
 
 
 
