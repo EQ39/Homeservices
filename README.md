@@ -6,9 +6,10 @@ A new Flutter project.
 
 1.  Flutter (front end) - (installation)https://youtu.be/ZSWfgxrxN0M?si=FqA2ZW7_tyP-5n5r
 2. Laravel API (Backend)
-3. Angular(admin panel) - template[https://www.creative-tim.com/product/material-dashboard-angular2/?AFFILIATE=52980
-4. firebase for user verification
-5. firebase cloud messaging
+3. Angular(admin panel) - template[https://www.creative-tim.com/product/material-dashboard-angular2/?AFFILIATE=5298
+4. MySql database
+5. firebase for user verification
+6. firebase cloud messaging
 
 **Flutter tools:**
  cupertino_icons: ^1.0.2
